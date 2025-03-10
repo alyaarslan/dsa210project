@@ -24,7 +24,7 @@ In the digital age, us humans spending extended periods indoors and engaging in 
 ## Data Sources  
 -This project uses two different sources for personal data tracking to analyze the relationship between outdoor activity and sleep quality. By comparing these data sources, the analysis aims to uncover patterns and correlations between time spent outside and various sleep metrics. This approach provides an understanding of how daily activity levels influence rest and recovery. The data sources include:
 
-- **Google Timeline Data::**  
+- **Google Timeline Data:**  
   - Extracted using Google Takeout.  
   - Tracks movement patterns, locations, and time spent in different places.
   - Used to calculate total outdoor time per day. 
