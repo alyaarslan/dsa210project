@@ -7,7 +7,8 @@ The term project given by DSA-210 Course in 2024-2025 Spring at Sabancı Univers
 ## Motivation  
 In the digital age, us humans spending extended periods indoors and engaging in online activities has become increasingly common. While this shift in lifestyle has been widely normalized, its effects on sleep quality remain uncertain. This study aims to examine the correlation between time spent outdoors and sleep quality by analyzing personal movement data from Google Timeline and sleep metrics from Samsung Health. Google Timeline records location and movement patterns using GPS, allowing for an accurate measure of outdoor activity duration. Samsung Health provides detailed sleep data, including total sleep duration, REM cycles, light and deep sleep stages, and physical and psychological recovery metrics. The analysis will use data spanning from July 2024 to September 2024, covering a 3 month period. By exploring this correlation, the study aims to get a better understanding of how daily activity levels influence sleep quality.
 
-
+## Research Question and Hypothesis
+My goal is to answer the research question "Does spending more time outdoors improve sleep quality?". The null hypothesis (H₀) is that there is no significant relationship between time spent outdoors and sleep quality, and the alternative hyptohesis (H₁) is that increased outdoor time is associated with improved sleep quality.
 
 ## Tools  
 - **Jupyter Notebook (Python IDE):** Interactive data analysis & visualization.
